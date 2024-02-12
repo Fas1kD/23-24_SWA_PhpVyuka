@@ -86,7 +86,7 @@
 
             // Počítání kalkulačky
             $result = spocitej($cislo1, $cislo2, $operace);
-            echo "<p style=\"border: 2px solid DodgerBlue;\" >Velký počítání: $cislo1 $operace $cislo2 = $result</p> <br> <p style=\"color: red; font-size: 300%;\">Výsledek: $result</p>"; //Výsledek (output), vypíše výpočet a následně i výsledek
+            echo "<p style=\"border: 2px solid DodgerBlue;\" >Velký počítání: $cislo1 $operace $cislo2 = $result</p> <br> <p style=\"color: red; font-size: 300%; text-align:center;\">VÝSLEDEK: $result</p>"; //Výsledek (output), vypíše výpočet a následně i výsledek
         }
     }
 
