@@ -1,6 +1,6 @@
 <html lang="cs">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">    <!--Nastavení českých znaků-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <!--Nastavení přiblížení a oddálení-->
     <title>KalkulackaPHP</title>     <!--Nadpis-->
 </head>
